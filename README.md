@@ -1,3 +1,13 @@
+# This repository is organized as follows:
+
+## part_1.py
+
+This file contains all functions for Part 1 - Vector Quantization. To run experiments for this part, run the python file using command line.
+
+## part_2.py
+
+This file contains all functions for Part 2 - Discrete Cosine Transform. To run experiments for this part, run the python file using command line.
+
 # Project 2: Vector Quantization and Discrete Cosine Transform
 In this project, we will implement two lossy compression methods for image using vector quantization and transform coding. Write a clear detailed report of your findings. 
 
